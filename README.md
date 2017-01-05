@@ -1,6 +1,14 @@
 # Example Shiny app
 
-This is an example application for Shiny.
+This is an example application for Shiny. 
+To run this app:
+  1) Open R
+  2) Type in the following commands:
+
+        install.packages("shiny")
+        library(shiny)
+        runGitHub( "ShinySentimentAnalysis", "shatrunjai") 
+
 The main purpose of this example is to illustrate how to run Shiny apps from a remote source.
 There are many ways to download and run it:
 
